@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/test_cmd.dir/test/test.c.o  -o test_cmd  libminizip.a 

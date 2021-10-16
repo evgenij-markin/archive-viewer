@@ -1,0 +1,9 @@
+/home/evgenij/Downloads/minizip-ng-master/CMakeFiles/install/strip.dir
+/home/evgenij/Downloads/minizip-ng-master/CMakeFiles/install/local.dir
+/home/evgenij/Downloads/minizip-ng-master/CMakeFiles/install.dir
+/home/evgenij/Downloads/minizip-ng-master/CMakeFiles/list_install_components.dir
+/home/evgenij/Downloads/minizip-ng-master/CMakeFiles/rebuild_cache.dir
+/home/evgenij/Downloads/minizip-ng-master/CMakeFiles/test_cmd.dir
+/home/evgenij/Downloads/minizip-ng-master/CMakeFiles/minizip_cmd.dir
+/home/evgenij/Downloads/minizip-ng-master/CMakeFiles/edit_cache.dir
+/home/evgenij/Downloads/minizip-ng-master/CMakeFiles/minizip.dir

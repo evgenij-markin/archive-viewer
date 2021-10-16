@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/minizip_cmd.dir/minizip.c.o  -o minizip  libminizip.a 
