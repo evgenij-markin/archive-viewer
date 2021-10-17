@@ -12,12 +12,12 @@ class MainWindow : public QMainWindow
 {
     Q_OBJECT    
 private:
-    QHBoxLayout *layout{};
-    QLabel      *label1{};
-    QPushButton *btn1{};
-    QTableView  *tableView{};
-    QVBoxLayout *vlay{};
-    QWidget     *wdg{};
+    QHBoxLayout *layout;
+    QLabel      *label1;
+    QPushButton *btn1;
+    QTableView  *tableView;
+    QVBoxLayout *vlay;
+    QWidget     *wdg;
 
     QVector<Archive_info> arch_contents;
 
